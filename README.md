@@ -1,8 +1,8 @@
-### Hello there! 👋
-================
+# Hello there! 👋
+***
 
-Who am I?
----------
+## Who am I?
+***
 * 👋 My name is Evan, but online I go by the pseudonym Ichigo
 * 🖥️ I am a self-taught developer interested in all things blockchain, cybersecurity, and smart contract auditing
 * 🌱 I am currently learning Rust
