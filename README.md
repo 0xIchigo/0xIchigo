@@ -10,8 +10,4 @@
 * 🤝 I'm open to collaborating on interesting projects or ideas
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; background-repeat: no-repeat; opacity: 0.5; background: url('https://github.com/0xIchigo/0xIchigo/assets/96965321/9c916468-d50a-40c6-9fe5-9d15eaea1568');]{x0000}$}
-
-
-
-
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; background-repeat: no-repeat; opacity: 0.5; background: url('https://github.com/0xIchigo/0xIchigo/assets/96965321/0bf2b849-5102-48de-afcb-914f1ebf255b');]{x0000}$}
